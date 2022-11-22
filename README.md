@@ -1,2 +1,4 @@
 # Omer-s_Portfolio
-Analytics Portfolio
+
+
+# [Project 1: Amazon Price Scrapper] (https://github.com/RonitMalik/BlackFriday_pythonScrapper)
